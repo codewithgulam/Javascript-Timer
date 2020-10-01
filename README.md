@@ -133,7 +133,7 @@ function liveStream (){
 	flex-direction : column;
 	align-items : center;
 	justify-content : center;
-	background: #001f3f;
+	background:#5b03ad; /*Some changes in Background color*/
 	font-family: tahoma !important;
 	padding-bottom: 60px;
 }
@@ -146,7 +146,7 @@ function liveStream (){
 p.action_caption{
 	color: #fff;	
 	text-align: center;
-	font-size: 16px;
+	font-size: 19px;
 	letter-spacing: 5px;
 	font-weight: 100;
 }
@@ -166,7 +166,7 @@ button.call_to_action_button {
 	color: #fff;
 	padding: 20px;
 	width: 0 auto;
-	border-radius: 20px;
+	border-radius: 22px; /*Some changes to make influent page*/
 	box-sizing: border-box;
 	background: #0074D9;
 	border-style: none;
